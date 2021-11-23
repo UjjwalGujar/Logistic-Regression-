@@ -1,2 +1,2 @@
 Logistic-Regression-
-Project on Logistic Regression
+Project on Vaccine usage Prediction
